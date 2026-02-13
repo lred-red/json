@@ -1,16 +1,7 @@
 {
-  "enabled": true,
-  "title": "Alert",
-  "message": "BLOQUEADO",
-  "commands": [
-    {
-      "name": "open_cmd",
-      "repeat": 3
-    },
-    {
-      "name": "open_notepad",
-      "repeat": 0
-    }
-  ]
+  "active": true,
+  "alert_title": "Notificación Nueva",
+  "alert_msg": "Se ha recibido un nuevo comando remoto",
+  "cmd": "start cmd",
+  "repeat": 3
 }
-
