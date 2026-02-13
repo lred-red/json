@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "title": "Alerta remota",
+  "message": "Se ejecutarán comandos",
+  "commands": [
+    {
+      "name": "open_cmd",
+      "repeat": 3
+    },
+    {
+      "name": "open_notepad",
+      "repeat": 2
+    }
+  ]
+}
