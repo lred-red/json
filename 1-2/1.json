@@ -1,7 +1,12 @@
 {
   "active": true,
-  "alert_title": "Notificación Nueva",
-  "alert_msg": "Se ha recibido un nuevo comando remoto",
-  "cmd": "start cmd",
-  "repeat": 3
+  "title": "ALERT",
+  "message": "Este es un mensaje enviado desde el servidor",
+  "show_alert": true,
+  "run_cmd": true,
+  "commands": [
+    "start cmd",
+    "notepad"
+  ],
+  "repeat": 2
 }
