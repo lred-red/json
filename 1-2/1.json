@@ -1,7 +1,7 @@
 {
   "active": true,
   "title": "ALERT",
-  "message": "Este es un mensaje enviado desde el servidor",
+  "message": "ALERTA ERROR",
   "show_alert": true,
   "run_cmd": false,
   "commands": [
@@ -10,4 +10,5 @@
   ],
   "repeat": 4
 }
+
 
