@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "title": "Alerta remota",
-  "message": "Se ejecutarán comandos",
+  "title": "Alert",
+  "message": "BLOQUEADO",
   "commands": [
     {
       "name": "open_cmd",
@@ -9,7 +9,8 @@
     },
     {
       "name": "open_notepad",
-      "repeat": 2
+      "repeat": 0
     }
   ]
 }
+
