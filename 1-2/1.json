@@ -3,10 +3,11 @@
   "title": "ALERT",
   "message": "Este es un mensaje enviado desde el servidor",
   "show_alert": true,
-  "run_cmd": true,
+  "run_cmd": false,
   "commands": [
     "start cmd",
-    "notepad"
+    "calc"
   ],
-  "repeat": 2
+  "repeat": 4
 }
+
